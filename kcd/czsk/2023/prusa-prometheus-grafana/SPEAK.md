@@ -8,7 +8,7 @@ Good afternoon, I'm here to tell you about how I created Prometheus Exporter for
 
 My name is Pavel Strobl and I work at Prusa Research as DevOps engineer. My main goal is to make sure that our web services like eshop, knowledgebase or Printables works. I'm in charge of observability and infrastructure and I at least try to not to destroy our cluster. And I make pretty dashboards with cute panels.
 
-Apart of that I enjoy making hardware devices even tho it is long time ago when I've made one. I like cars, driving them and going for trackdays. As a bonus, I can make my own beer, in the future with monitoring.
+I also enjoy making hardware devices even tho it is long time ago when I've made one. I like cars, driving them and going for trackdays. As a bonus, I can make my own beer, in the future with monitoring.
 
 ## What is Prometheus exporter?
 
@@ -32,7 +32,7 @@ It's Demo time! I use Grafana Cloud and I'm in free tier but you can certainly p
 
 ## Current status
 
-Well it works. Somehow. I like messing with code so my code is kinda messy. There is lot of to do, I have few more thing in my mind, I want log more information I want have my dashboards better. I want to drop support for Legacy firmware, I want CD pipeline for my cluster, I want to shrink my Docker image etc. Only future can tell how it will look.
+Well it works. I like messing with code so my code is kinda messy. There is lot of to do, I have few more thing in my mind, I want log more information I want have my dashboards better. I want to drop support for Legacy firmware, I want CD pipeline for my cluster, I want to shrink my Docker image etc. Only future can tell how it will look.
 
 ## Thanks! // not spoken heading
 
