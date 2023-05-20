@@ -1,0 +1,63 @@
+How to not use Prometheus and Grafana with Prusa printers
+Pavel Strobl
+Pubel.dev
+
+Who am I?
+Pavel Strobl
+DevOps engineer for Prusa Research
+HW wannabe
+Car enthusiast
+Homebrewer (Sorta)
+Pubel.dev
+Hello-There.svg
+
+/metrics
+Endpoint for Prometheus Scraper
+Instrumenting metrics
+TL;DR:
+“Text file” that Prometheus gets and stores
+What is Prometheus exporter?
+Pubel.dev
+Metrics-Emperor.svg
+
+But why?
+Few printers
+Centralisation of metrics
+Long preservation of data
+Alerting
+Freedom
+Machine learning?
+Pubel.dev
+Pleasure-Room.svg
+
+How it works?
+“It just works.”
+GoLang
+Three Prometheus Handlers
+Legacy (DEPRECATED)
+Buddy
+Einsy
+Multi-target
+A lot of messy metrics
+Pubel.dev
+It-Just-Works.svg
+
+DemOps!
+Hopefully
+Pubel.dev
+Wonka-Grafana.svg
+
+Current status
+It works… somehow
+WIP - More like PoC
+It needs polishing
+Logging data from printers to Loki
+And much more
+Pubel.dev
+Horse.svg
+
+Thanks!
+See you later…
+Alligator
+Pubel.dev
+QR-Github.svg
