@@ -12,7 +12,7 @@ Pubel.dev
 Hello-There.svg
 
 /metrics
-Endpoint for Prometheus Scraper
+Endpoint for Prometheus Scraper 
 Instrumenting metrics
 TL;DR:
 “Text file” that Prometheus gets and stores
@@ -21,7 +21,7 @@ Pubel.dev
 Metrics-Emperor.svg
 
 But why?
-Few printers
+Multiple printers
 Centralisation of metrics
 Long preservation of data
 Alerting
